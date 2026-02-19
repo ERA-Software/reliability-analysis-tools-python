@@ -1,7 +1,7 @@
 import numpy as np
 import scipy as sp
-from ERANataf import ERANataf
-from ERADist import ERADist
+from eraUQ import ERANataf
+from eraUQ import ERADist
 from aCS import aCS
 from corr_factor import corr_factor
 """

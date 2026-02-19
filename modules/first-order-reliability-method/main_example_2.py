@@ -6,8 +6,8 @@ except:
 
 import scipy as sp
 import matplotlib.pyplot as plt
-from ERANataf import ERANataf
-from ERADist import ERADist
+from eraUQ import ERANataf
+from eraUQ import ERADist
 from FORM_HLRF import FORM_HLRF
 from FORM_fmincon import FORM_fmincon
 from FORM_Sensitivity import FORM_Sensitivity

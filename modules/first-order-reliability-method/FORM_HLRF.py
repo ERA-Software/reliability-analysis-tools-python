@@ -1,5 +1,5 @@
 import scipy as sp
-from ERANataf import ERANataf
+from eraUQ import ERANataf
 
 try:
     import autograd.numpy as np

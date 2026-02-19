@@ -1,6 +1,6 @@
 import numpy as np
-from ERANataf import ERANataf
-from ERADist import ERADist
+from eraUQ import ERANataf
+from eraUQ import ERADist
 from Sim_Sobol_indices import Sim_Sobol_indices
 from Sim_EVPPI import Sim_EVPPI
 

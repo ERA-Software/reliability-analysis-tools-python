@@ -1,8 +1,8 @@
 import numpy as np
 import scipy as sp
 import matplotlib.pyplot as plt
-from ERANataf import ERANataf
-from ERADist import ERADist
+from eraUQ import ERANataf
+from eraUQ import ERADist
 from SuS import SuS
 from Sim_Sensitivity import Sim_Sensitivity
 plt.close('all')

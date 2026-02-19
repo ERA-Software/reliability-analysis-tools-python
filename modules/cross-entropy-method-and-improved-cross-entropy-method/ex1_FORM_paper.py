@@ -1,8 +1,8 @@
 import numpy as np
 import scipy as sp
 import matplotlib.pyplot as plt
-from ERANataf import ERANataf
-from ERADist import ERADist
+from eraUQ import ERANataf
+from eraUQ import ERADist
 
 # improved version
 from iCE_SG import iCE_SG
