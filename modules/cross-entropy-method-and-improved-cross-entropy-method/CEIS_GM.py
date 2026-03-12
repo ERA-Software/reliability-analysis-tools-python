@@ -1,7 +1,7 @@
 import numpy as np
 import scipy as sp
-from ERANataf import ERANataf
-from ERADist import ERADist
+from eraUQ import ERANataf
+from eraUQ import ERADist
 from EMGM import EMGM
 np.seterr(all='ignore')
 

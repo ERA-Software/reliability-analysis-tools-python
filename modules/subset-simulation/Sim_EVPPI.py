@@ -1,6 +1,6 @@
 import numpy as np
 import scipy as sp
-from ERADist import ERADist
+from eraUQ import ERADist
 from Sim_Sobol_indices import w_opt_finder, kde
 
 
